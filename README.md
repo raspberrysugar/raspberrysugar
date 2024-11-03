@@ -2,7 +2,7 @@
 - 💼 Open to opportunities where I can make an impact with an awesome team!
 - 👀 I’m interested in Information technology, data analysis, data security, network security administration, SQL, R, Tableau, Kaggle, RStudio, and learning!
 - 🌱 Currently enrolled in the Data Analytics course, and graduated in May 2024 with an AAS Information Technology Cybersecurity. After graduating, I found most Cybersecurity positions are seeking 5-7 years of experience that I simply do not have. I researched certification programs to enhance my knowledge and opted for Data Analytics!
-- 💞️ I truly enjoy information technology and am branching out into data analytics. The truth is, I never want to stop learning and growing.🌱
+- 💞️ I truly enjoy information technology and am branching out into data analytics. The truth is, I never want to stop learning and growing.
 - 📫 How to reach me: raspberrysugar23@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts:
