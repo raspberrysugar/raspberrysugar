@@ -11,8 +11,8 @@
 3. Certified Ethical Hacker: I'm not just interested in cybersecurity—I'm certified in Ethical Hacking, which is a fascinating process.
 4. Lifelong Learner: I am committed to expanding my knowledge in tech and data analysis even while job hunting.
 5. Real Estate Pro: I have a unique background in real estate with both sales and administrative experience. I'm familiar with customer relations and have a strong attention to detail.
-6. Pet Parent to Bella the Pug! Bella just turned three and may be spoiled a little! 💞️
-7/ Ink Enthusiast: Both arms are tattooed with flowers, I also have a vibrant artistic side!
+6. Pet Parent to Bella the Pug! Bella just turned three and may be spoiled a little!
+7. Ink Enthusiast: Both arms are tattooed with flowers, I also have a vibrant artistic side!
 
 <!---
 raspberrysugar/raspberrysugar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
